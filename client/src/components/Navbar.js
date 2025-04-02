@@ -187,7 +187,7 @@ function Navbar({ postpage }) {
               <span>Add</span>
             </Link>
             <Link to="/auth" className="logout" style={{ marginTop: '-2px' }}>
-              SignUp | LogIn
+              LogIn
             </Link>
           </div>
         </div>

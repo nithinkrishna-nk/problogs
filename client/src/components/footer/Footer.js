@@ -82,10 +82,10 @@ function Footer() {
       </div>
       <div className="footer-info">
         <p>
-          &copy; 2021-2025 @ Made By <a href="https://github.com/Prashant0664" target="_blank">Prashant</a>
+          &copy; 2021-2025 @ Made By <a href="love" target="_blank">......</a>
         </p>
         <p>
-          For any issue kindly send mail to <a type="mail" href="mailto:prashant201103@gmail.com"> prashant201103@gmail.com </a>
+          For any issue kindly send mail to <a type="mail" href="mailto:prashant201103@gmail.com"> NK </a>
         </p>
       </div>
     </footer>

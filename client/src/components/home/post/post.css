@@ -105,6 +105,7 @@
   line-height: 1.25;
   cursor: pointer;
   flex: 4;
+  margin-bottom: 10px;
 }
 
 .posts_container .item .right .title:hover {

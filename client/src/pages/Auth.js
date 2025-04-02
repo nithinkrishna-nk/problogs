@@ -6,6 +6,7 @@ import { Link, useNavigate } from "react-router-dom";
 import axios from "axios";
 import { useDispatch } from "react-redux";
 import Cookies from "js-cookie";
+import Navbar from "../components/Navbar";
 import {
   checkifverify,
   sendmail,

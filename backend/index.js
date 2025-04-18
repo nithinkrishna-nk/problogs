@@ -19,7 +19,12 @@ require('dotenv').config();
 app.use(
   cors({
     origin: [ "http://localhost:3000",
+<<<<<<< HEAD
       "https://problogs.vercel.app",],
+=======
+      "https://problogs.vercel.app",
+  ],
+>>>>>>> ca03e85 (Added logo, favicon...)
     // origin: [keys.REACT_APP_BACKEND_URL, keys.REACT_APP_FRONTEND_URL],
     methods: "GET,POST,PUT,DELETE",
     credentials: true,
